@@ -1,4 +1,4 @@
-# githubJaiderSalas-ensolvers-challenge
+# Notes App
 ## Requisitos
 
 Para ejecutar esta aplicación, necesitas tener instalados los siguientes componentes:
